@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
-    <title>[Ваше имя]</title>
+    <title>[Сергей]</title>
 </head>
 <body>
-    <h1>Привет! Меня зовут [имя]</h1>
+    <h1>Привет! Меня зовут Сергей</h1>
     <p>Я изучаю веб-разработку и Git.</p>
     <h2>Мои увлечения</h2>
     <ul>
